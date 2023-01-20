@@ -1,0 +1,151 @@
+/* ========================================
+        Extra small device start
+======================================== */
+
+@media only screen and (max-width: 575.98px) {
+    /* ===============================
+              Navbar part start
+    ================================== */
+
+    .navbar-brand {
+        font-size: 15px !important;
+    }
+
+    .navbar-toggler {
+        border: none;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* ===============================
+              Navbar part end
+    ================================== */
+
+    /* ===============================
+              Banner part start
+    ================================== */
+
+    .carousel-caption {
+        position: absolute;
+        bottom: 1.25rem;
+        padding-top: 1.25rem;
+        padding-bottom: 1.25rem;
+        color: #fff;
+        text-align: center;
+        top: 54%;
+    }
+
+    .banner-title {
+        font-size: 1.5rem;
+        padding: 0;
+        margin-bottom: 10px;
+    }
+
+    .banner-subtitle {
+        font-size: 1rem;
+        padding: 0;
+    }
+
+    /* ===============================
+              Banner part end
+    ================================== */
+
+    /* ===============================
+        Moment precious part start
+    ================================== */
+    .moment-precious {
+        margin: 50px 0;
+    }
+
+    .moment-title {
+        font-size: 1.188rem;
+        line-height: 28px;
+    }
+
+    .moment-para {
+        padding-right: 0;
+    }
+
+    .next-booking {
+        top: -8px;
+        right: -20%;
+        transform: translateX(-50%);
+    }
+
+    .mobile-album {
+        width: 60%;
+        margin: auto;
+        margin-top: 20px;
+    }
+
+    /* ===============================
+        Moment precious part end
+    ================================== */
+
+    /* ===============================
+        Our Package part start
+    ==================================  */
+    .our-package {
+        margin-bottom: 0px;
+    }
+
+    .package-item {
+        margin-bottom: 50px;
+    }
+
+    /* ===============================
+        Our Package part end
+    ==================================  */
+
+    /* ===============================
+            Clint part start
+    ==================================  */
+
+    .clint {
+        margin-bottom: 0px;
+    }
+
+    .card {
+        margin-bottom: 50px;
+    }
+
+    .card-text {
+        padding: 0;
+    }
+
+    /* ===============================
+            Clint part end
+    ==================================  */
+
+    /* ===============================
+            FAQ part start
+    ==================================  */
+
+    .faq {
+        margin-bottom: 50px;
+    }
+
+    /* ===============================
+            FAQ part end
+    ==================================  */
+
+    /* ===============================
+            Footer part start
+    ==================================  */
+
+
+
+    /* ===============================
+            Footer part end
+    ==================================  */
+
+
+
+}
+
+
+/* ========================================
+        Extra small device end
+======================================== */
